@@ -73,7 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# IgnoredSCN and Asset
+# IgnoredSCN and Asset (parce que sinon ça push pas sur github lol xptdrr tuez moi)
 Content/Gothic_Cathedral/*
 Content/IthrisCemetery/*
 Content/FirstPerson/Maps/SCN_Cemetery.umap
+Content/FantasyInterior01/Maps/*
+Content/FantasyInterior01/Textures/Unused_Textures/*
